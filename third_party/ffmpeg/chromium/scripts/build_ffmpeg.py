@@ -243,9 +243,9 @@ def main(argv):
       '--disable-vda',
       '--disable-vdpau',
 
-      '--enable-decoder=aac,h264,mp3,mpeg4,hevc,ac3,mpegvideo,msmpeg4v1,msmpeg4v2,msmpeg4v3,flv,dca,vp8,vp9',
+      '--enable-decoder=aac,h264,mp3,mpeg4,hevc,ac3,mpegvideo,msmpeg4v1,msmpeg4v2,msmpeg4v3,flv,dca',
       '--enable-demuxer=mp3,mov,avi,flv,mp4,mpegvideo,dts,dtshd,mpegts,ogg',
-      '--enable-parser=aac,h264,h263,mpegaudio,mpeg4video,ac3,dca,hevc,mepgvideo,vp8,vp9',
+      '--enable-parser=aac,h264,h263,mpegaudio,mpeg4video,ac3,dca,hevc,mepgvideo',
 
       '--enable-decoder=flac',
       '--enable-demuxer=flac',
